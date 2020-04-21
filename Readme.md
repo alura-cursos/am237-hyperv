@@ -18,9 +18,12 @@
 2. Criar uma máquina virtual padrâo pelo gerenciador do Hyper-V:
 
     a. Criar uma interface de rede externa para acessar os serviços
+
     b. Configurar a nova máquina com essa interface
-    c. Download da ISO do Debian
-    c. Criar um par de chaves SSH:
+
+    c. Download da ISO do Debian: [https://www.debian.org/CD/http-ftp/] https://www.debian.org/CD/http-ftp/
+
+    d. Criar um par de chaves SSH:
 
 ```
 ssh-keygen -t rsa
