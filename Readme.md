@@ -21,7 +21,7 @@
 
     b. Configurar a nova máquina com essa interface
 
-    c. Download da ISO do Debian: [https://www.debian.org/CD/http-ftp/] https://www.debian.org/CD/http-ftp/
+    c. Download da ISO do Debian: [https://www.debian.org/CD/http-ftp/](https://www.debian.org/CD/http-ftp/)
 
     d. Criar um par de chaves SSH:
 
